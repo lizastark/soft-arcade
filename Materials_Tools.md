@@ -1,4 +1,3 @@
-List of all materials and tools for class
 ## Materials List
 Below are all of the materials you will need for this deep dive. 
 *Note: ** indicates that you should already have this item from Learning Labs HQ.*
