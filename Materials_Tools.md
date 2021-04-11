@@ -71,3 +71,18 @@ Embroidery scissors
 - Knitting machine or loom
 - Felting needles
 - Small loom (weaving)
+
+
+## Distributor List
+Based in the US
+- [LessEMF](http://www.lessemf.com/index.html)
+- [VTech Textiles](http://www.shopvtechtextiles.com)
+- [Adafruit](https://adafruit.com)
+- [Sparkfun](https://sparkfun.com)
+
+Based in the EU
+- [Statex](https://www.statex.de/en/fabrics/)
+- [Bekaert](https://bekaert.com)
+- [ImBut](http://www.imbut.de/)
+- [Karl Grimm](https://drive.google.com/open?id=1D6NT0Cx4RQkzS9TrGD05QOy7sfvz4FfX)
+- [Bart and Fracis](https://www.bart-francis.be/index.php?action=home&lang=EN)

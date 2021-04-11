@@ -1,11 +1,12 @@
 /*
- Reading Sensor Values
- 
- This sketch reads the data coming in from the sensor and prints it to the serial
- monitor. This is extremely helpful to debug or find the range of values you 
- want to use.
- 
+ * Teensy Mouse Move Test (Simple)
+ * April 2021
+ * 
+ * Adapted from Kobakant post: https://www.kobakant.at/DIY/?p=2497
+ * 
+ * One sensor moves the cursor to the right when activated.
  */
+
 
 int sensorPin = A1;    // select the input pin for the sensor
 int sensorValue;  // variable to store the value coming from the sensor
@@ -21,12 +22,12 @@ void loop() {
   sensorValue = analogRead(sensorPin); 
   
   //Print the value to the Serial monitor   
-  Serial.println(sensorValue);  
+  //Serial.println(sensorValue);  
   
   if(sensorValue < 700){
-    //Mouse.move(1,0);
+    Mouse.move(1,0);
   } else {
-    //Mouse.move(0,0);
+    Mouse.move(0,0);
   }
-  */
+ 
 }

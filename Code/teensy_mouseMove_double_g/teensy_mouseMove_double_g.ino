@@ -1,18 +1,12 @@
 /*
- * TEENSY HID FOR ALT CONTRL DEEP DIVE
- * FEB 14, 2021
+ * Teensy Mouse Move Test (Simple)
+ * April 2021
  * 
  * Adapted from Kobakant post: https://www.kobakant.at/DIY/?p=2497
  * 
- * Two sensors control left and right movement.
+ * Two sensors move the cursor to the right and left when activated.
  */
 
-
-// The following code is an example of mapping analog input
-// from analog pin 1 on the Teensy to the X value of the mouse cursor.
-// It sets a trigger threshold, bellow which the function is called
-// When the move function is called X steadily increases by the value of speed.
-// You can not accelerate the speed of the mouse in this example.
 
 int rightPin = A3; //variable for storing value of pin that moves RIGHT
 int leftPin = A1; //variable for storing value of pin that moves LEFT
@@ -24,7 +18,7 @@ void setup() {
   pinMode(15, INPUT_PULLUP); //left - digital pin on A1
   pinMode(17, INPUT_PULLUP); //right - digital pin on A3
   //Serial.begin(9600);
-  //Mouse.screenSize(400, 400);
+  
 }
 
 void loop() {
