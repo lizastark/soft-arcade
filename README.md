@@ -9,10 +9,10 @@ In this two week course, you will design a custom game controller using electron
 
 ## Schedule
 ### Week 1
-- [Day 1: Introduction](https://github.com/lizastark/soft-arcade/tree/main/Days/Day_1)
+[Day 1: Introduction](https://github.com/lizastark/soft-arcade/tree/main/Days/Day_1)
 (overview, materials exploration, game design exercise)
 
-- [Day 2: Crafting Sensors + Guiding Electricity](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_2.md) (review electricity, knit a custom sensor, sewing 101)
+[Day 2: Crafting Sensors + Guiding Electricity](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_2.md) (review electricity, knit a custom sensor, sewing 101)
 
 [Day 3: Interacting with the Screen](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_3.md) (meet the Teensy LC, reading data from a sensor, HIDs)
 
@@ -38,14 +38,14 @@ Day 10: Project: Game Jam & Wrap up (game jam, more documentation, taking it fur
 - Communication: Discord
 - Submitting asynchronous work: Discord
 - Documentation: Make, personal sites
-- Course documentation: GitHub, Google Slides
+- Course documentation: GitHub, Google Slides, [Are.na](https://www.are.na/liza-stark/soft-arcade)
 - Office hours: Discord
 
 ### Office hours
 We all have strengths and knowledge to share. Liza or Elizabeth with be available most days for office hours, but you will also be required to sign up for one day of office hours. 
 
 ### Debugging best practices
-Bugs happens to all of us! Things break! That's ok - it's the best way to learn. See the debugging.md file for more.
+Bugs happens to all of us! Things break! That's ok - it's the best way to learn. See the [debugging.md](https://github.com/lizastark/soft-arcade/blob/main/debugging.md) file for more.
 
 
 ## Resources
