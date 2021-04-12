@@ -9,28 +9,20 @@ In this two week course, you will design a custom game controller using electron
 
 ## Schedule
 ### Week 1
-[Day 1: Introduction](https://github.com/lizastark/soft-arcade/tree/main/Days/Day_1)
+- [Day 1: Introduction](https://github.com/lizastark/soft-arcade/tree/main/Days/Day_1)
 (overview, materials exploration, game design exercise)
-
-[Day 2: Crafting Sensors + Guiding Electricity](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_2.md) (review electricity, knit a custom sensor, sewing 101)
-
-[Day 3: Interacting with the Screen](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_3.md) (meet the Teensy LC, reading data from a sensor, HIDs)
-
-[Day 4: Tracing Materials](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_4.md) (hard/soft connections, make a fabric pcb)
-
-Day 5: Project: Brainstorming (design exercise, flex/review time)
+- [Day 2: Crafting Sensors + Guiding Electricity](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_2.md) (review electricity, knit a custom sensor, sewing 101)
+- [Day 3: Interacting with the Screen](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_3.md) (meet the Teensy LC, reading data from a sensor, HIDs)
+- [Day 4: Tracing Materials](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_4.md) (hard/soft connections, make a fabric pcb)
+- Day 5: Project: Brainstorming (design exercise, flex/review time)
 
 
 ### Week 2
-Day 6: Project: Prototyping (pitches, prototyping techniques, scoping)
-
-Day 7: Project: Playtesting (how to playtest, giving/receiving feedback)
-
-Day 8: Project: Prototyping (debugging, optional playtest)
-
-Day 9: Project: Refining & Documenting (making it look nice, documentation)
-
-Day 10: Project: Game Jam & Wrap up (game jam, more documentation, taking it further)
+- Day 6: Project: Prototyping (pitches, prototyping techniques, scoping)
+- Day 7: Project: Playtesting (how to playtest, giving/receiving feedback)
+- Day 8: Project: Prototyping (debugging, optional playtest)
+- Day 9: Project: Refining & Documenting (making it look nice, documentation)
+- Day 10: Project: Game Jam & Wrap up (game jam, more documentation, taking it further)
 
 
 ## Tools and Systems
@@ -75,7 +67,7 @@ These are some other key people and works that have been informing my thinking a
 - [Mika Satomi](http://www.nerding.at/) and [Hannah Perner-Wilson](https://www.plusea.at/) of Kobakant
 - Mindy Seu's [Cyberfeminist Index](https://cyberfeminismindex.com/)
 - [Paolo Pedercini](http://paolo.molleindustria.org/) and [Molleindustria](http://www.molleindustria.org/), who create "artisanal remedies to the idiocy of mainstream entertainment in the form of short experimental games".
-- Sarah Hendren's [What Can a Body Do? How We Meet the Built World](https://www.newyorker.com/books/page-turner/when-the-world-isnt-designed-for-our-bodies) is a beautiful examination of ability adn the body
+- Sarah Hendren's [What Can a Body Do? How We Meet the Built World](https://www.newyorker.com/books/page-turner/when-the-world-isnt-designed-for-our-bodies) is a beautiful examination of ability and the body
 - Wendy Chun's [On Software or the Persistence of Visual Knowledge](https://monoskop.org/File:Chun_Wendy_Hui_Kyung_2005_On_Software_or_the_Persistence_of_Visual_Knowledge.pdf))
 
 
