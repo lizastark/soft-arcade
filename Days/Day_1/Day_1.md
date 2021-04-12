@@ -17,7 +17,7 @@ Please have all of the following materials close at hand for the synchronous ses
 - Game design 101
 
 ### Slides
-Posted after class
+[Day 1 slides](https://docs.google.com/presentation/d/1Wh7Nw8XU_47jvuW30wxoiMz0_ycqBUVpD-pfi_HKbbU/edit#slide=id.g4fff4d02ae_0_162)
 
 ### Code 
 N/a
