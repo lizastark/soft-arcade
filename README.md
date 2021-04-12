@@ -9,16 +9,16 @@ In this two week course, you will design a custom game controller using electron
 
 ## Schedule
 ### Week 1
-**Day 1: Introduction**
+**[Day 1: Introduction](https://github.com/lizastark/soft-arcade/tree/main/Days/Day_1)**
 (overview, materials exploration, game design exercise)
 
-**Day 2: Crafting Sensors + Guiding Electricity**
+**[Day 2: Crafting Sensors + Guiding Electricity](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_2.md)**
 (review electricity, knit a custom sensor, sewing 101)
 
-**Day 3: Interacting with the Screen**
+**[Day 3: Interacting with the Screen](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_3.md)**
 (meet the Teensy LC, reading data from a sensor, HIDs)
 
-**Day 4: Tracing Materials**
+**[Day 4: Tracing Materials](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_4.md)**
 (hard/soft connections, make a fabric pcb)
 
 **Day 5: Project: Brainstorming**

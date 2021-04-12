@@ -26,8 +26,11 @@ N/a
 ### Reference
 
 ### Asynchronous assignment
-**1. Redesign the controller for your favorite game using textiles as the main material.** You should consider the analysis techniques we used earlier to inform your design. You should create an annotated sketch that details the form, materials, and interaction as well as a short reflection on your goals and process. What did you hope to accomplish and why? Who is this for? 
-**2. Prepare the materials for Day 2.** 
+**1. Fill out this [Learner Profile form](https://docs.google.com/forms/d/e/1FAIpQLScaq-mlHV0mVsZCHXSKnL11MgIg9-bGX9st0Z-lgdbYoQeWYA/viewform)**
+
+**2. Redesign the controller for your favorite game using textiles as the main material.** You should consider the analysis techniques we used earlier to inform your design. You should create an annotated sketch that details the form, materials, and interaction as well as a short reflection on your goals and process. What did you hope to accomplish and why? Who is this for? 
+
+**3. Prepare the materials for Day 2.** 
 - 3 volt battery
 - Copper tape
 - Artists tape
