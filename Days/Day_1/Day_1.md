@@ -17,18 +17,25 @@ Please have all of the following materials close at hand for the synchronous ses
 - Game design 101
 
 ### Slides
+Posted after class
 
 ### Code 
 N/a
 
 ### Tutorials
+N/a
 
 ### Reference
+- [Shake that button](https://shakethatbutton.com/)
+- [Soft Arcade Are.na channel](https://www.are.na/liza-stark/soft-arcade)
+- [Materials section](https://www.kobakant.at/DIY/?cat=24) from Kobakant
 
 ### Asynchronous assignment
 **1. Fill out this [Learner Profile form](https://docs.google.com/forms/d/e/1FAIpQLScaq-mlHV0mVsZCHXSKnL11MgIg9-bGX9st0Z-lgdbYoQeWYA/viewform)**
 
-**2. Redesign the controller for your favorite game using textiles as the main material.** You should consider the analysis techniques we used earlier to inform your design. You should create an annotated sketch that details the form, materials, and interaction as well as a short reflection on your goals and process. What did you hope to accomplish and why? Who is this for? 
+**2. Redesign the controller for your favorite game using textiles as the main material.** Create an annotated sketch that details the form, materials, and interaction as well as a short reflection on your goals and process.  Use the analysis techniques from class to inform your design. What did you hope to accomplish and why? Who is this for? 
+
+**3. Choose a alt controller that speaks to you and reflect it.** What do you like about it? Why are you drawn to it? You can start on [Are.na](https://www.are.na/liza-stark/soft-arcade) or any of the resources on the README.md
 
 **3. Prepare the materials for Day 2.** 
 - 3 volt battery

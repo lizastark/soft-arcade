@@ -5,7 +5,7 @@
 Please have all of the following materials close at hand for the synchronous session.
 - 3 volt battery
 - Copper tape
-- Artists tape
+- Artists tape or masking tape
 - Alligator clip
 - Scotch tape
 - Scissors
