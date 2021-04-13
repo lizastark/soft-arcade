@@ -35,6 +35,7 @@ Please have all of the following materials close at hand for the synchronous ses
 N/a
 
 ### Tutorials
+- [Sensor category](https://www.kobakant.at/DIY/?cat=26) from Kobakant. It is a vast, fantastic hole to fall into. Swim around and have fun :)
 - [Soft switches seen in class](http://thesoftcircuiteer.net/projects/soft-switches/)
 - [Sensors seen in class](http://thesoftcircuiteer.net/projects/soft-sensors/)
 
