@@ -34,7 +34,7 @@ In this two week course, you will design a custom game controller using electron
 - Office hours: Discord
 
 ### Office hours
-We all have strengths and knowledge to share. Liza or Elizabeth with be available most days for office hours, but you will also be required to sign up for one day of office hours. 
+Liza or Elizabeth with be available most days for office hours by appointment. Since we all have strengths and knowledge to share, you should reach out to the group when you encounter a technical or conceptual challenge. See below for best practices on sharing a technical issue.
 
 ### Debugging best practices
 Bugs happens to all of us! Things break! That's ok - it's the best way to learn. See the [debugging.md](https://github.com/lizastark/soft-arcade/blob/main/debugging.md) file for more.

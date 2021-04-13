@@ -18,9 +18,18 @@ Please have all of the following materials close at hand for the synchronous ses
   - Conductive yarn
 
 ### Agenda
-- TBD
+- Share out
+- Electricity Review
+- Materials
+- Intro to Switches + Sensors
+- Break
+- Knit a sensor
+- Sewing 101
+- Assignment
+
 
 ### Slides
+[Day 2 Slides](https://docs.google.com/presentation/d/1ZvIQkCAeHPzeSKMTxDaY3o4m2w55tibS2A2hs-vlB_E/edit#slide=id.g4fff4d02ae_0_162)
 
 ### Code 
 N/a
