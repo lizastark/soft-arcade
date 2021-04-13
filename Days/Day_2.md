@@ -9,7 +9,7 @@ Please have all of the following materials close at hand for the synchronous ses
 - Alligator clip
 - Scotch tape
 - Scissors
-- Toilet paper holder
+- Empty toilet paper roll
 - From the class kit:
   - Straight pins
   - Metal clip

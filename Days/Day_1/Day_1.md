@@ -44,7 +44,7 @@ N/a
 - Alligator clip
 - Scotch tape
 - Scissors
-- Toilet paper holder
+- Empty toilet paper roll
 - From the class kit:
   - Straight pins
   - Metal clip
