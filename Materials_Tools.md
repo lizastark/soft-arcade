@@ -39,6 +39,9 @@ Below are all of the materials you will need for this deep dive.
 - Breadboard**
 - Switches**
 
+Optional:
+- [SMD LEDs 3528/1210](https://www.amazon.com/gp/product/B01CUGAGE6/ref=od_aui_detailpages00?ie=UTF8&th=1)
+
 ### Materials
 - Muslin or other woven cotten fabric (I will provide you with some)
 - Assortment of fabrics, felt, neoprene, roving, and soft materials - go digging in your closet, to your local thrift store, or fabric store if you feel comfortable
