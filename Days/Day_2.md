@@ -1,5 +1,5 @@
 # Day 2: Crafting Sensors
-**Big Question:** TBD
+**Big Question:** How does materiality shift interaction?
 
 ### Materials + Tools
 Please have all of the following materials close at hand for the synchronous session.
@@ -35,6 +35,8 @@ Please have all of the following materials close at hand for the synchronous ses
 N/a
 
 ### Tutorials
+- [Soft switches seen in class](http://thesoftcircuiteer.net/projects/soft-switches/)
+- [Sensors seen in class](http://thesoftcircuiteer.net/projects/soft-sensors/)
 
 ### Reference
 
