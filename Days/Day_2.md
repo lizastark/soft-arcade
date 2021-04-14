@@ -43,7 +43,30 @@ N/a
 ### Reference
 
 ### Asynchronous assignment
-Prepare the materials for Day 3:
+**1. Sensor mechanics.** Choose two game mechanics from this list or choose your own. Produce a sensor or switch inspired by this mechanic.
+- hang
+- hit
+- wind
+- snap
+- rip
+- pull
+- drop
+- draw
+- weave
+- bounce
+- rub
+- Slide
+- flip
+- drag
+- bend
+- turn
+- twist
+
+**2. Get your Teensy LC set up.** Install the latest version of [Arduino](https://www.arduino.cc/en/software) and [Teensyduino](https://www.pjrc.com/teensy/td_download.html).
+
+**3. Complete [this tutorial](https://www.pjrc.com/teensy/tutorial.html) to upload a sketch to Teensy.** Make sure you can upload the Blink sketch successfully. If you cannot, document your issues and bring them to class.
+
+**4. Prepare your materials for Day 3.** 
 - Teensy LC
 - USB to micro cable
 - Teensyduino installed
