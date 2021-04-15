@@ -22,7 +22,8 @@ void loop() {
   
   //Print the value to the Serial monitor   
   Serial.println(sensorValue);  
-  
+
+  /*
   if(sensorValue < 700){
     //Mouse.move(1,0);
   } else {
