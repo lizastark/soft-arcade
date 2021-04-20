@@ -14,13 +14,13 @@ In this two week course, you will design a custom game controller using electron
 - [Day 2: Crafting Sensors + Guiding Electricity](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_2.md) (review electricity, knit a custom sensor, sewing 101)
 - [Day 3: Interacting with the Screen](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_3.md) (meet the Teensy LC, reading data from a sensor, HIDs)
 - [Day 4: Tracing Materials](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_4.md) (hard/soft connections, make a fabric pcb)
-- Day 5: Project: Brainstorming (design exercise, flex/review time)
+- [Day 5: Project: Brainstorming])https://github.com/lizastark/soft-arcade/blob/main/Days/Day_5.md (design exercise, flex/review time)
 
 
 ### Week 2
-- Day 6: Project: Prototyping (pitches, prototyping techniques, scoping)
-- Day 7: Project: Playtesting (how to playtest, giving/receiving feedback)
-- Day 8: Project: Prototyping (debugging, optional playtest)
+- [Day 6: Project: Prototyping](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_6.md) (pitches, prototyping techniques)
+- [Day 7: Project: Prototyping](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_7.md) (stand, office hours)
+- Day 8: Project: Playtesting/Share out (debugging, share out/playtest)
 - Day 9: Project: Refining & Documenting (making it look nice, documentation)
 - Day 10: Project: Game Jam & Wrap up (game jam, more documentation, taking it further)
 

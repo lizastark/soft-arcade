@@ -7,12 +7,9 @@ Please have all of the following materials close at hand for the synchronous ses
 
 
 ### Agenda
-- Share out
-- Brief
-- Question dump
-- Play frameworks
-- Break
-- Rapid brainstorming exercise
+- Pitches
+- Process + prototyping
+- Live demos or office hours
 
 
 ### Slides
