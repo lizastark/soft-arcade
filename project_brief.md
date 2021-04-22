@@ -22,9 +22,11 @@ Here are some questions you can reflect on as you prepare:
 - Why was this alt controller design a good fit for your audience?
 
 **Demo** 
+Please be ready to do a live demo or share a video of it working. If you are podding with other family members or friends, it would be *great* to bring them to class to test it! 
 - How does it work? 
 - What is the core interaction? 
-- Please be ready to do a live demo or share a video of it working. If you are podding with other family members or friends, it would be *great* to bring them to class to test it! 
+- What is the circuit? 
+- What is the code, if applicable?
 
 - **Process** 
 - What inspired you? 
@@ -37,3 +39,5 @@ Here are some questions you can reflect on as you prepare:
 - What is your plan for documentation? 
 - How will you share the final product? 
 - How will you share the process?
+- How will you share your circuit diagrams?
+- How will you share your code?
