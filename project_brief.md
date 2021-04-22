@@ -11,3 +11,9 @@ Tips:
 - Come up with a big idea and make one part of it.
 - Check inspiration on [Are.na](https://www.are.na/liza-stark/soft-arcade)
 
+### Presentation/Game Jam
+You will have 5-7 minutes to present and 5 minutes for group feedback. You should focus on the concept, demo, process, and documentation. Here are some questions you can reflect on as you prepare:
+**- Concept:** What is the goal? What game did you choose? Why was this alt controller design a good fit for your audience?
+**- Demo:** How does it work? What is the core interaction? Please be ready to do a live demo or share a video of it working. If you are podding with other family members or friends, it would be *great* to bring them to class to test it! 
+**- Process:** What inspired you? What materials and tools did you use? What prototypes did you create? How did you make the final product? What challenges did you encounter? How did you overcome them?
+**- Documentation:** What is your plan for documentation? How will you share the final product? How will you share the process?
