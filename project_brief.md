@@ -28,14 +28,14 @@ Please be ready to do a live demo or share a video of it working. If you are pod
 - What is the circuit? 
 - What is the code, if applicable?
 
-- **Process** 
+**Process** 
 - What inspired you? 
 - What materials and tools did you use? 
 - What prototypes did you create? How did you make the final product? 
 - What challenges did you encounter? 
 - How did you overcome them?
 
-- **Documentation** 
+**Documentation** 
 - What is your plan for documentation? 
 - How will you share the final product? 
 - How will you share the process?
