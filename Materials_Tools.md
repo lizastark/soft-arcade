@@ -13,14 +13,15 @@ Below are all of the materials you will need for this deep dive.
 - Heat’n’bond fusible interfacing
 
 **Bag 1: Conductive materials**
-- Copper taffeta fabric 
+See the conductive_materials file for more information on each one.
+- Copper taffeta fabric
 - Stretch conductive fabric 
 - Conductive ribbon
 - Karl Grimm silver conductive thread (~5.5 yards)
 - Silverspun yarn (~5.5 yards)
 - Velostat
 - Eeontex stretch fabric
-- Beeswax
+- Beeswax (for conductive thread)
 
 **Bag 2: Electronics + sewing notions**
 - Teensy LC x 1
