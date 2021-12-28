@@ -53,4 +53,6 @@ N/a
   - Conductive yarn
 
 
+![Battery holder](https://github.com/lizastark/soft-arcade/blob/main/Days/Day_1/paper_battery.png?raw=true)
+
 
